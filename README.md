@@ -1,7 +1,5 @@
 # HomeCredit-Kaggle-Report
 
-## Description
-
 Jupyter Notebook containing Exaustive Data Analysis + Predictive Deep Learning Model (NN) used for a Kaggle data science competition.
 
 See the description of competition and context in notebook.
